@@ -1,0 +1,40 @@
+.game{
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    color: #094d3ee5;
+    font-weight: bold;
+    font-size: 5ch;
+    font-family: 'Times New Roman', Times, serif
+
+}
+
+.title{
+    background: #FFC900;
+    margin: 5px 0;
+    padding: 10px 0;
+
+}
+
+span{
+    color: rgb(70, 134, 102);
+
+}
+
+.square{
+    width: 146px;
+    height: 146px;
+    background:#FFC900;
+    margin: 2px;
+    float: left;
+    font-family: initial;
+    font-size: 90px;
+    
+   
+  
+}
+.square:hover{
+    background: #1a5347fa;
+    cursor: pointer;
+    color: #FFC900;
+}
